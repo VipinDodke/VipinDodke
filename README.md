@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vipin830525@gmail.com**
 
-- 📄 Know about my experiences [https:VipinDodkeResume.pdf](https://github.com/VipinDodke/VipinDodke/blob/main/VIPIN_DODKE_RESUME.pdf) Updated Jan 2024
+- 📄 Know about my experiences [Vipin Dodke Resume.pdf](https://github.com/VipinDodke/VipinDodke/blob/main/Vipin_Dodke_ReactNative_Resume_2025.pdf) Updated July 2025
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
