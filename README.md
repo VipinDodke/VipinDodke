@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style={flex:1}>
 
-- 🔭 I’m currently working in [Deloitte South Asia](https://www2.deloitte.com/in/en.html)
+- 🔭 I’m currently working in [Encora Inn](linkedin.com/company/coforge-tech?originalSubdomain=in)
 
 - 🌱 I’m currently learning **Full Stack Mobile App Development**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vipin830525@gmail.com**
 
-- 📄 Know about my experiences [Vipin Dodke Resume.pdf](https://github.com/VipinDodke/VipinDodke/blob/main/Vipin_Dodke_ReactNative_Resume_2025.pdf) Updated July 2025
+- 📄 Know about my experiences [Vipin Dodke Resume.pdf](https://github.com/VipinDodke/VipinDodke/blob/main/Vipin_Dodke_React_Native_2026.pdf) Updated July 2025
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
